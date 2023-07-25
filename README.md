@@ -1,10 +1,6 @@
-# demystifying_startup_success
+# Demystifying Startup Success
 Crystal Ball for Startups: Predictive Modeling Meets Empirical Analysis to Unearth the Key to Startup Success!
 
-
-
-
-# Demystifying Startup Success
 
 ## Description
 
