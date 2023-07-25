@@ -18,8 +18,8 @@ The startup ecosystem has seen an explosion of activity in recent years. However
 
 There are two primary scripts in this repository:
 
-1. `crunchbase_cleanup.py` - This script performs the data cleaning, feature engineering, and variable selection on the Crunchbase dataset, transforming numerous tables into a single, manageable dataframe.
-2. `startup_predictor.py` - This script takes the clean, prepared data from the previous script and leverages it to construct and train our predictive models.
+1. `crunchbase_cleanup.ipynb` - This script performs the data cleaning, feature engineering, and variable selection on the Crunchbase dataset, transforming numerous tables into a single, manageable dataframe.
+2. `startup_predictor.ipynb` - This script takes the clean, prepared data from the previous script and leverages it to construct and train our predictive models.
 
 ## How To Interact With This Project
 
